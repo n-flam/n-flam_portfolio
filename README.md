@@ -50,4 +50,4 @@ SO THAT our own site is optimized for all screen sizes
 
 The following image shows the web application's appearance and functionality:
 
-(https://github.com/n-flam/n-flam_portfolio/blob/main/assets/about_me.png)
+![code refactor screenshot (layout)](https://github.com/n-flam/nflam_portfolio/blob/main/blob:main/about_me.png)
